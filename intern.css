@@ -1,0 +1,87 @@
+
+.top{
+  background-color:black;
+  height:60px;
+}
+button{
+  margin-right:220px;
+  font-size:20px;
+  background-color:darkorange;
+  border-style:dotted;
+}
+h1{
+  color:crimson;
+  text-align:center;
+  margin-left:450px;
+  border-radius:50px;
+  background-color:aquamarine;
+  width:600px;
+  font-size:50px;
+  border:dashed;
+}
+.para{
+   background-color:black; 
+  text-align:center;
+  border-radius:50px;
+  width:550px;
+  margin-left:400px;
+  font-size:25px;
+  color:green;
+  height:100px;
+  border-style:dashed;
+
+}
+.bouque{
+  text-align:center;
+  font-size:30px;
+  border-style:dashed;
+  width:100px;
+  height:70px;
+  margin-left:600px;
+  background-color:burlywood;
+}
+img{
+  border:80px solid white;
+}
+.paraone{
+  text-align:center;
+  font-size:50px;
+  text-decoration:underline;
+}
+.occasion{
+  font-size:30px;
+  color:blue;
+  font-family:cursive;
+}
+.box{
+  background-color:grey;
+  height:250px;
+  color:white;
+  text-align:center;
+  border-radius:50px;
+  border-style:dashed;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.btnss{
+  color:white;
+  text-align:center;
+  margin-left:300px;
+}
+/* #one{
+  margin-left:600px;
+} */
+#call{
+  text-align:center;
+  color:purple;
+  text-decoration: underline;
+}
+.last{
+  text-align:center;
+  background-color:pink;
+  border-radius:100px;
+}
+.frm{
+  background-color: rgb(124, 233, 124);
+  border-style:dotted;
+  border-radius:100px;
+}
